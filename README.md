@@ -1,2 +1,5 @@
 # hello_world
-just another repository
+
+Hi everybody!
+
+My name is Gianella, I'm an student and I'm learning how tu use github.
